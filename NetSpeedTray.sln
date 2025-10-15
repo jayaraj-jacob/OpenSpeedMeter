@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSpeedTray", "NetSpeedTray\NetSpeedTray.csproj", "{DCA7C2B3-70BF-40AC-8196-3B4916B0B96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA7C2B3-70BF-40AC-8196-3B4916B0B96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA7C2B3-70BF-40AC-8196-3B4916B0B96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA7C2B3-70BF-40AC-8196-3B4916B0B96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA7C2B3-70BF-40AC-8196-3B4916B0B96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59455D62-0BE8-4B9F-A38C-C3200DAE15D3}
+	EndGlobalSection
+EndGlobal
